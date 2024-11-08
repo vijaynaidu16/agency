@@ -1,7 +1,7 @@
-import Company from "./Company"
-import ImageBox from "./ImageBox"
-import Text from "./Text"
-import Footer from "./footer";
+import Company from "./Company.jsx"
+import ImageBox from "./ImageBox.jsx"
+import Text from "./Text.jsx"
+import Footer from "./Footer.jsx";
 
 // import "./App.css";
 const Home = () => {
